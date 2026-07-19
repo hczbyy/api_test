@@ -1,5 +1,5 @@
 takeout-test-jmeter/
-├── README.md               # 项目说明（简历可贴该仓库地址）
+├── README.md               
 ├── script/                 # JMeter脚本目录
 │   ├── main.jmx            # 主测试计划（全业务链路）
 │   └── common/              # 公共复用片段
